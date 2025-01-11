@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Melda-17
-- 👀 I’m interested in learning new things
-- 🌱 I’m currently learning gitHub, cloud computer
+- 👋 Hi, I’m @Mel
+- 👀 I’m interested in learning new things 
+- 🌱 I’m currently learning gitHub, AWS, AZURE, GCP
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me
+- 📫 How to reach me 
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: 
 
